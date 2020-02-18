@@ -37,10 +37,10 @@
 						
   					</div>
   					<div class="widget-body clearfix dataTable-length-top-0">
-                        <form method='post' action='/uploadFile' enctype='multipart/form-data' >
+                        <form method='post' action='upload' enctype='multipart/form-data' >
                             {{ csrf_field() }}
-                            <input type='file' name='file' >
-                            <input type='submit' name='submit' value='Import'>
+                            <input type='file' name='name' >
+                            <input type='submit' class="btn btn-primary" name='submit' value='Upload'>
                           </form>
   					</div>
   				</div>

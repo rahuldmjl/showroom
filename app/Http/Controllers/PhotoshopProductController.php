@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 use App\photography_product;
 use App\category;
 use Illuminate\Http\Request;
-
+use App\photoshop_cache;
 class PhotoshopProductController extends Controller
 {
     public $list_prpduct;
@@ -35,14 +35,12 @@ class PhotoshopProductController extends Controller
         $status=$request->input('status');
         $sku=$request->input('sku');
         $filter=array(
-            'category'=>$category,
+            'categoryid'=>$category,
             'color'=>$color,
             'status'=>$status,
             'sku'=>$sku
         );
-        
-        
-         if($category !=="null")
+        if($category !=="null")
         {
           
             $list=$this->list_prpduct->where('categoryid',$category);
@@ -66,8 +64,32 @@ class PhotoshopProductController extends Controller
         }
         $category=$this->category;
         $color=$this->list_prpduct;
-        return view('Photoshop/Product/list',compact('list','category','color','filter'));
+      return view('Photoshop/Product/list',compact('list','category','color','filter'));
     }
 
-   
+    public function upload_csv_product(Request $request)
+    {
+        
+         $filename=$request->file('name');
+         $filepath=$filename->getRealPath();
+          $file=fopen($filepath,'r');
+          $header=fgetcsv($file);
+            dd($header);
+       
+        echo "Upload Successfull";
+    }
+   public function delete_product(Request $request)
+   {
+       echo $request->get('id');
+       photography_product::deletye_photography_product($request->get('id'));
+       return redirect()->back()->with('success', 'Product Delete  Successfull');
+   }
+
+   public function get_product_detail($id)
+   {
+       $listproduct=photoshop_cache::getproduct($id);
+       $list=collect($listproduct)->where('id',$id);
+
+      return view('Photoshop/Product/view',compact('listproduct'));
+   }
 }

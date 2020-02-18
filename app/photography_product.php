@@ -31,4 +31,9 @@ class photography_product extends Model
        $data=array('status'=>'0');
        return photography_product::where('id','=',$productid)->update($data);
    }
+
+   public static function deletye_photography_product($id)
+   {
+     return photography_product::where('id','=',$id)->delete();
+   }
 }

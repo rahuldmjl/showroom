@@ -15,4 +15,11 @@ class category extends Model
         return $this->belongsTo('App\photography_product');
     }
 
+
+    public static function get_category_entity_id($id)
+    {
+        return category::where('entity_id','=',$id)->first();
+        
+    }
+
 }

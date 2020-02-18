@@ -716,9 +716,13 @@ Route::post('account/payments#future_due', ['as' => 'accountpayment.future_due',
 
 Photoshop Product COntroller 
 */
+
 Route::get('Photoshop/Product/list','PhotoshopProductController@list_of_product')->name('product_list');
 Route::get('Photoshop/Product/add','PhotoshopProductController@add_of_product')->name('product_add');
 Route::post('Photoshop/Product/list','PhotoshopProductController@list_of_product_filter')->name('product_list');
+Route::post('Photoshop/Product/upload','PhotoshopProductController@upload_csv_product')->name('upload_csv');
+Route::get('Photoshop/Product/delete','PhotoshopProductController@delete_product')->name('photography.product.delete');
+Route::get('Photoshop/Product/view/{id}','PhotoshopProductController@get_product_detail')->name('product.view');
 /*
 Photoshop department
 */

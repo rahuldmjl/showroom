@@ -140,17 +140,16 @@
 						if($item->status=='0')
 						{
 							?>
-							<a href="" class="btn btn-primary">Delete</a>
-							&nbsp;	&nbsp;&nbsp;
-							<a href="javascript:void(0)"  class="btn btn-primary">View</a>
+								<a class="color-content table-action-style btn-delete-customer" data-href="{{ route('photography.product.delete',['id'=>$item->id]) }}" style="cursor:pointer;"><i class="material-icons md-18">delete</i></a>
+								<a href="javascript:void(0);"  class="color-content table-action-style"><i class="material-icons md-18">remove_red_eye</i></a>
 							
 							<?php 
 						}
 						else {
 							?>
-							<a href="javascript:void(0)"  class="btn btn-primary">Delete</a>
-							&nbsp;	&nbsp;&nbsp;
-							<a href="" class="btn btn-primary">View</a>
+							<a href="javascript:void(0)"  class="color-content table-action-style"><i class="material-icons md-18">delete</i></a>
+							
+							<a href="{{ route('product.view',['id'=>$item->id]) }}" class="color-content table-action-style"><i class="material-icons md-18">remove_red_eye</i></a>
 							<?php 
 						}
 						?>
@@ -196,5 +195,22 @@
 <script src="https://cdn.datatables.net/buttons/1.6.0/js/buttons.print.min.js"></script>
 <script src="<?=URL::to('/');?>/js/jquery.validate.min.js"></script>
 <script src="<?=URL::to('/');?>/js/additional-methods.min.js"></script>
+<script>
+	$(document).on('click','.btn-delete-customer',function(){
+			var deleteUrl = $(this).data('href');
+		    swal({
+		        title: 'Are you sure?',
+		         type: 'info',
+				 text:'Delete This Product',
+		        showCancelButton: true,
+		        confirmButtonText: 'Confirm',
+		        confirmButtonClass: 'btn-confirm-all-productexcel btn btn-info'
+		        }).then(function(data) {
+		        	if (data.value) {
+		        		window.location.href = deleteUrl;
+		        	}
 
+		    });
+		});
+</script>
 @endsection
