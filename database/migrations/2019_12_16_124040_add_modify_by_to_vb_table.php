@@ -13,9 +13,10 @@ class AddModifyByToVbTable extends Migration
      */
     public function up()
     {
-        Schema::table('vb', function (Blueprint $table) {
+       /* Schema::table('vb', function (Blueprint $table) {
             $table->unsignedBigInteger('modify_by')->after('created_by')->nullable()->change();
         });
+		*/
     }
 
     /**

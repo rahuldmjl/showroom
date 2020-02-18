@@ -11,7 +11,7 @@ class PhotoshopTableseeder extends Seeder
      */
     public function run()
     {
-      DB::table('category')->insert(
+      DB::table('categories')->insert(array(
 	  [
 	  'entity_id'=>'16',
 	  'name'=>'Earrings',
@@ -55,11 +55,10 @@ class PhotoshopTableseeder extends Seeder
 	   [
 	  'entity_id'=>'35',
 	  'name'=>'Rubber bracelets',
-	  ]
-	  
+	  ]) 
 	   );
 	  
-	  DB::table('photoshop_status_type')->insert(
+	  DB::table('photoshop_status_types')->insert(array(
 	  [
 	  'status_name'=>'PHOTOGRAPHY_DONE',
 	  'status_id'=>'1',
@@ -100,6 +99,6 @@ class PhotoshopTableseeder extends Seeder
 	  'status_name'=>'PLACEMENT_REWORK',
 	  'status_id'=>'11',
 	  ]
-	  );
+	  ));
     }
 }

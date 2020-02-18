@@ -13,9 +13,11 @@ class AddNullableConstraintToVb extends Migration
      */
     public function up()
     {
+		/*
         Schema::table('vb', function (Blueprint $table) {
             $table->string('modify_by')->nullable()->change();
         });
+		*/
     }
 
     /**
