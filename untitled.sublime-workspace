@@ -1,0 +1,2113 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"tr",
+				"transactiontype"
+			],
+			[
+				"Tr",
+				"TransactionType"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"costing",
+				"costinglist"
+			],
+			[
+				"perm",
+				"permissions"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"Perm",
+				"permissions"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"new",
+				"new_product"
+			],
+			[
+				"pur",
+				"purchased_at"
+			],
+			[
+				"tra",
+				"transaction_by"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"q",
+				"qtywithqlty"
+			],
+			[
+				"MetalTr",
+				"metalTransactions"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"pul",
+				"pull-right"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"add",
+				"addAttributeToFilter"
+			],
+			[
+				"cus",
+				"customerGstin"
+			],
+			[
+				"st",
+				"street"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"mEMO",
+				"Memo"
+			],
+			[
+				"RETUN",
+				"Return"
+			],
+			[
+				"ini",
+				"initial_price_start"
+			],
+			[
+				"vir",
+				"virtual_boxes"
+			],
+			[
+				"retu",
+				"return_html"
+			],
+			[
+				"goldpu",
+				"goldpurity"
+			],
+			[
+				"gold",
+				"gold_color"
+			],
+			[
+				"fil",
+				"filtered_products_colors"
+			],
+			[
+				"filter",
+				"filtered_products"
+			],
+			[
+				"jU",
+				"jQuery"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"CRI",
+				"criteria"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"col",
+				"colvalue"
+			],
+			[
+				"Q",
+				"QUANTITY"
+			],
+			[
+				"m",
+				"metal_gross"
+			],
+			[
+				"str",
+				"stripcslashes"
+			],
+			[
+				"main",
+				"mainquery"
+			],
+			[
+				"cu",
+				"grapes_filter_custom"
+			],
+			[
+				"load",
+				"loadajaxfilterblock"
+			],
+			[
+				"rati",
+				"ratio14k"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"addF",
+				"addFieldToFilter"
+			],
+			[
+				"fran",
+				"franchises"
+			],
+			[
+				"fra",
+				"franchises_order"
+			],
+			[
+				"roun",
+				"roundshape"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"ord",
+				"orderId"
+			],
+			[
+				"total",
+				"total_qty"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"sho",
+				"showroomlink"
+			],
+			[
+				"or",
+				"order_const"
+			],
+			[
+				"shoo",
+				"showroom"
+			],
+			[
+				"met",
+				"metal_quality"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"certificate",
+				"certificate_no"
+			],
+			[
+				"cr",
+				"criteria_14k"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"pos",
+				"postData"
+			],
+			[
+				"pro",
+				"productCount"
+			],
+			[
+				"orig",
+				"original_sku"
+			],
+			[
+				"type",
+				"type_id"
+			],
+			[
+				"is_",
+				"is_numeric"
+			],
+			[
+				"dia",
+				"diamond_qualities"
+			],
+			[
+				"category",
+				"category_name"
+			],
+			[
+				"to",
+				"totalstone"
+			],
+			[
+				"ROUN",
+				"roundcount"
+			],
+			[
+				"ston",
+				"stoneclarity"
+			],
+			[
+				"prod",
+				"products_collection"
+			],
+			[
+				"certi",
+				"certificate_no"
+			],
+			[
+				"sea",
+				"searchvalue"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"_get",
+				"_getCart"
+			],
+			[
+				"price",
+				"price_to"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"cart",
+				"carturl"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"page",
+				"setCurPage"
+			],
+			[
+				"setP",
+				"setPageSize"
+			],
+			[
+				"log",
+				"login_link"
+			],
+			[
+				"av",
+				"availability"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"clic",
+				"clickOutside"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"reload",
+				"reloadPrice"
+			],
+			[
+				"custom",
+				"customer_address"
+			],
+			[
+				"par",
+				"param1"
+			],
+			[
+				"para",
+				"param1"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"att",
+				"attributeCode"
+			],
+			[
+				"en",
+				"entityType"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"stonecl",
+				"stoneclarity1"
+			],
+			[
+				"vio",
+				"violation_action"
+			],
+			[
+				"exp",
+				"expanded_costingshape"
+			],
+			[
+				"sto",
+				"stonect"
+			],
+			[
+				"sold",
+				"sold_out_products"
+			],
+			[
+				"chi",
+				"childProducts"
+			],
+			[
+				"not",
+				"notify"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"zip",
+				"zipVal"
+			],
+			[
+				"phon",
+				"phoneRegex"
+			],
+			[
+				"valida",
+				"validate-digits"
+			],
+			[
+				"customer",
+				"customerId"
+			],
+			[
+				"reset",
+				"resetPasswordLinkToken"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/chintan/Documents/Chintan_bkp/html/DML All server details with commands.txt",
+			"settings":
+			{
+				"buffer_size": 15698,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/docs/dealermela/DML INTERNAL SOFTWARE/19062019.txt",
+			"settings":
+			{
+				"buffer_size": 1090,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "- Invoice no unique"
+			}
+		},
+		{
+			"file": "resources/views/auth/login.blade.php",
+			"settings":
+			{
+				"buffer_size": 5360,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 834,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/docs/may-2019.txt",
+			"settings":
+			{
+				"buffer_size": 15470,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/docs/june-2019.txt",
+			"settings":
+			{
+				"buffer_size": 6954,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 6186,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/TransactionTypeController.php",
+			"settings":
+			{
+				"buffer_size": 2343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/transactiontype/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 2866,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/transactiontype/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 2844,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/transactiontype/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 5465,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/breadcrumbs.php",
+			"settings":
+			{
+				"buffer_size": 6220,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/TransactionType.php",
+			"settings":
+			{
+				"buffer_size": 417,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/PermissionController.php",
+			"settings":
+			{
+				"buffer_size": 2460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layout/partials/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 27948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/seeds/PermissionsTwoTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/roles/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 5429,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/constants.php",
+			"settings":
+			{
+				"buffer_size": 2441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/profile.blade.php",
+			"settings":
+			{
+				"buffer_size": 5460,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 5450,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Middleware/NavData.php",
+			"settings":
+			{
+				"buffer_size": 1339,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/showroom/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 32270,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ShowroomController.php",
+			"settings":
+			{
+				"buffer_size": 22438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Helpers/ShowroomHelper.php",
+			"settings":
+			{
+				"buffer_size": 46585,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"magerun",
+				"MagerunCommander: Module Create"
+			],
+			[
+				"mage",
+				"MagerunCommander: Module List"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/dml_soft_2.0/app/Helpers/ShowroomHelper.php",
+		"/var/www/dml_soft_2.0/public/css/custom.css",
+		"/var/www/dml_soft_2.0/resources/views/auth/verify.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/auth/passwords/email.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/auth/passwords/reset.blade.php",
+		"/var/www/dml_soft_2.0/database/seeds/PermissionsTwoTableSeeder.php",
+		"/tmp/fz3temp-2/local.xml",
+		"/var/www/dml_soft_2.0/app/User.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/ProfileController.php",
+		"/var/www/dml_soft_2.0/resources/views/profile/password.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/profile.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/costing/create.blade.php",
+		"/var/www/dml_soft_2.0/config/services.php",
+		"/var/www/dml_soft_2.0/config/mail.php",
+		"/tmp/fz3temp-2/CustomersController.php",
+		"/tmp/fz3temp-2/app.php",
+		"/tmp/fz3temp-2/index.blade.php",
+		"/var/www/dml_soft_2.0/routes/web.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/CostingController.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/PaymentTypeController.php",
+		"/var/www/dml_soft_2.0/resources/views/permission/index.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/layout/partials/nav.blade.php",
+		"/var/www/dml_soft_2.0/app/Providers/AuthServiceProvider.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_03_124026_create_metal_transactions_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_20_121918_add_metal_rate_to_metal_transactions_table.php",
+		"/var/www/dml_soft_2.0/resources/views/metals/create.blade.php",
+		"/var/www/dml_soft_2.0/app/ManageCharges.php",
+		"/var/www/dml_soft_2.0/database/seeds/PermissionsTableSeeder.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/RoleController.php",
+		"/var/www/dml_soft_2.0/routes/breadcrumbs.php",
+		"/var/www/dml_soft_2.0/resources/views/permission/edit.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/permission/create.blade.php",
+		"/var/www/dml_soft_2.0/app/MetalTransaction.php",
+		"/var/www/dml_soft_2.0/app/Helpers/CommonHelper.php",
+		"/var/www/dml_soft_2.0/resources/views/metals/show.blade.php",
+		"/var/www/dml_soft_2.0/resources/views/metals/index.blade.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/MetalController.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/PermissionController.php",
+		"/var/www/blog-acl/config/app.php",
+		"/var/www/dml_soft_2.0/config/app.php",
+		"/var/www/dml_soft_2.0/app/Providers/AppServiceProvider.php",
+		"/var/www/dml_soft_2.0/resources/views/showroom/index.blade.php",
+		"/var/www/dml_soft_2.0/database/seeds/DatabaseSeeder.php",
+		"/var/www/dml_soft_2.0/app/Metal.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/MetalTransactionController.php",
+		"/var/www/dml_soft_2.0/resources/views/layout/partials/header.blade.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/ProductTypeController.php",
+		"/var/www/dml_soft_2.0/resources/views/users/index.blade.php",
+		"/var/www/dml_soft_2.0/app/Http/Middleware/NavData.php",
+		"/var/www/dml_soft_2.0/resources/views/roles/index.blade.php",
+		"/var/www/dml_soft_2.0/public/assets/js/theme.js",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/UserController.php",
+		"/home/chintan/.cache/.fr-0Q0MKQ/PHP/cregrp.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_18_103729_drop_primary_from_diamonds.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_12_135049_drop_vendor_id_colums_to_vendor_charges_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_12_134027_drop_id_colums_to_vendor_charges_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_12_124248_add_mm_size_to_diamond_transactions_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_12_123705_remove_packet_id_from_diamond_transactions_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_12_055439_remove_packet_id_from_diamond_transactions.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_11_141313_add_packet_id_to_diamond_transactions_table.php",
+		"/var/www/dml_soft_2.0/database/seeds/vendor_product_types.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_12_135605_add_vendor_id_to_vendor_charges_table.php",
+		"/var/www/dml_soft_2.0/database/seeds/vendor_diamond_types.php",
+		"/tmp/fz3temp-2/DatabaseSeeder.php",
+		"/tmp/fz3temp-2/PermissionsTableSeeder.php",
+		"/var/www/docs/shopify/icecarats-copy.txt",
+		"/var/www/dml_soft_2.0/database/migrations/2019_05_28_055137_create_permission_tables.php",
+		"/var/www/dml_soft_2.0/public/assets/js/custom.js",
+		"/var/www/dml_soft_2.0/public/js/app.js",
+		"/var/www/blog-acl/routes/web.php",
+		"/var/www/dml_soft_2.0/app/Costingdata.php",
+		"/var/www/dml_soft_2.0/app/vendor_charges.php",
+		"/tmp/fz3temp-2/index.php",
+		"/var/www/dml_soft_2.0/database/seeds/PermissionTableSeeder.php",
+		"/var/www/dml_soft_2.0/database/seeds/TransactionTableSeeder.php",
+		"/var/www/dml_soft_2.0/database/seeds/TransactionTypeTableSeeder.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/PaymentController.php",
+		"/var/www/dml_soft_2.0/app/Http/Controllers/VendorController.php",
+		"/tmp/fz3temp-2/Data.php",
+		"/tmp/fz3temp-2/IndexController 2.php",
+		"/tmp/fz3temp-2/IndexController 3.php",
+		"/tmp/fz3temp-2/IndexController.php",
+		"/var/www/dealertest/app/code/local/Grp/Readytoship/controllers/IndexController.php",
+		"/tmp/fz3temp-2/IndexController 4.php",
+		"/tmp/fz3temp-2/database 2.php",
+		"/tmp/fz3temp-2/database.php",
+		"/tmp/fz3temp-2/.env",
+		"/tmp/fz3temp-2/connection.php",
+		"/tmp/fz3temp-2/.env 2",
+		"/tmp/fz3temp-2/database 3.php",
+		"/tmp/fz3temp-2/AppServiceProvider.php",
+		"/tmp/fz3temp-2/rtslist 2.phtml",
+		"/tmp/fz3temp-2/rtslist.phtml",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_04_115213_add__phone_colums_to_users_table.php",
+		"/tmp/fz3temp-2/tables.txt",
+		"/tmp/fz3temp-2/tables-1.txt",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_11_103811_create_payment_types_table.php",
+		"/var/www/dml_soft_2.0/config/constants.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_11_103822_create_payments_table.php",
+		"/tmp/fz3temp-2/index_event.sql",
+		"/tmp/fz3temp-2/Connector.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_06_095646_add_vendor_dmcode_colums_to_users_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_06_095646_add_vendor_dmcode_colums_to_users_table.php~HEAD",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_11_102807_create_payments_table.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_05_063045_update_metals_table_amount_paid_column.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_03_133654_create_metals_table.php",
+		"/tmp/fz3temp-2/config.php",
+		"/tmp/fz3temp-2/README.md",
+		"/tmp/fz3temp-2/Driver.php",
+		"/tmp/fz3temp-2/Configuration.php",
+		"/tmp/fz3temp-2/Inflector.php",
+		"/tmp/fz3temp-2/Instantiator.php",
+		"/tmp/fz3temp-2/server.php",
+		"/tmp/fz3temp-2/laravel-2019-06-11.log",
+		"/tmp/fz3temp-2/qrinsertproduct.phtml",
+		"/tmp/fz3temp-2/local 2.xml",
+		"/var/www/dml_soft_2.0/app/TransactionType.php",
+		"/var/www/dealertest/app/code/local/Mage/Sales/Model/Order.php",
+		"/var/www/dealertest/app/design/frontend/rwdnew/default/template/qrinsertproduct/qrinsertproduct.phtml",
+		"/var/www/dealertest/app/design/frontend/rwdnew/default/template/catalog/product/list/toolbar_qrcodeproduct.phtml",
+		"/var/www/dealertest/app/design/frontend/rwdnew/default/template/catalog/product/inventorystaus.phtml",
+		"/var/www/dealertest/app/code/local/Grp/Qrinsertproduct/controllers/IndexController.php",
+		"/var/www/docs/dealermela/DML INTERNAL SOFTWARE/admin2/oscar.dharansh.in/default/form-pickers.html",
+		"/var/www/dml_soft_2.0/resources/views/users/create.blade.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_06_03_105011_create_transaction_types_table.php",
+		"/var/www/dml_soft_2.0/app/Vendor.php",
+		"/var/www/dml_soft_2.0/database/migrations/2019_05_29_124652_create_vendorstonemanages_table.php",
+		"/var/www/dml_soft_2.0/resources/views/layout/partials/footer.blade.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/var/www/dml_soft_2.0/database/migrations/",
+			"/var/www/dml_soft_2.0/",
+			"/var/www/dealertest",
+			"/var/www/dealertest/app",
+			"/var/www/dealertest/app/design/frontend/rwdnew/default",
+			"/var/www/dml_soft_2.0/",
+			"/var/www/dml_soft_2.0/app/",
+			"/var/www/dml_soft_2.0/app/Http/",
+			"/var/www/dml_soft_2.0/resources/views/layout/partials",
+			"/var/www/dealertest/app/",
+			"/var/www/dealertest/app/code/local/",
+			"/var/www/dealertest/app/code/local",
+			"/var/www/phirani/magmi/",
+			"/var/www/dealertest/app",
+			"/var/www/docs/,*.txt",
+			"/var/www/docs/",
+			"/var/www/dealertest/app/",
+			"/var/www/dealertest/magmi",
+			"/var/www/dealertest/app/,*.php",
+			"/var/www/dealertest/,*.php",
+			"/var/www/phirani/skin_bkp_05042019/skin",
+			"/var/www/phirani/app_bkp_05042019/app",
+			"/var/www/dealertest/app",
+			"/var/www/phirani/",
+			"/var/www/phirani/app_bkp_05042019/app/",
+			"/var/www/dealertest/app/code/local/Grp/Costing/sql/costing_setup/",
+			"/var/www/modperfumes",
+			"/var/www/dealertest/app/design/",
+			"/var/www/dealertest/magmi/conf/Necklace/",
+			"/var/www/docs/,*.txt",
+			"/var/www/docs/",
+			"/var/www/docs/Rebox/09032019/Grapesoverride/etc/",
+			"/var/www/dealer2/",
+			"/var/www/dealer2/vendor/",
+			"/var/www/dealer2/",
+			"/var/www/dealer2/vendor/magento/module-customer",
+			"/var/www/docs/,*.txt",
+			"/var/www/dealertest/",
+			"/var/www/dealer2/app/code/",
+			"/var/www/dealer2/app/code/Cmage/Customerattribute",
+			"/var/www/dealertest",
+			"/var/www/dealer2.0/vendor/magento/data-migration-tool/etc",
+			"/var/www/dealer2/app/code/Grapes",
+			"/var/www/EO_iCAN/iCAN_Resident/",
+			"/var/www/EO_iCAN/iCAN_Admin/",
+			"/var/www/EO_iCAN/iCAN_Resident/",
+			"/var/www/EO_iCAN/iCAN_Cop/",
+			"/var/www/dealer2/vendor/magento/module-catalog/",
+			"/var/www/dealer2",
+			"/var/www/code-migration-develop",
+			"/var/www/colorfab/",
+			"/var/www/dyestuffandchemical.com",
+			"/var/www/dealertest/app/",
+			"/var/www/dealertest/app/design/frontend/rwdnew/",
+			"/var/www/dealertest/app/design/frontend/rwdnew/default/template/",
+			"/var/www/dealertest/app/design/frontend/rwdnew/default/template/catalog/",
+			"/var/www/dealertest/app/design/frontend/rwdnew/default/template/catalog/product/",
+			"/var/www/dealertest/app/",
+			"/var/www/dealertest/",
+			"/var/www/ronmarone_26102017/ronmarone/",
+			"/var/www/docs/ ,*.txt",
+			"/var/www/code-migration-develop",
+			"/var/www/code-migration-tool",
+			"/var/www/dealertest/app/design/frontend/rwdnew/",
+			"/var/www/dealertest/app/",
+			"/var/www/dealertest/",
+			"/var/www/docs/, .txt",
+			"/var/www/docs/,*.txt",
+			"/var/www/docs/",
+			"/var/www/dealertest/app/",
+			"/var/www/dealertest/",
+			"/var/www/docs/,*.txt",
+			"/var/www/dealertest/",
+			"/var/www/dealertest/app/code/local/Msg/",
+			"/var/www/dealertest/",
+			"/var/www/cakephp-shopping-cart/",
+			"/var/www/dealertest",
+			"/var/www/docs/,*.txt",
+			"/var/www/docs/",
+			"/var/www/docs/dealermela/internalsystem",
+			"/var/www/docs/dealermela/30112018/app_skin_bkp_30112018_1145",
+			"/var/www/docs/dealermela/05112018/fullsite_live_bkp_05112018/",
+			"/var/www/docs/dealermela/05112018/fullsite_live_bkp_05112018/skin",
+			"/var/www/docs/dealermela/LIVE BKP 22102018/app_testserver_bkp_21102018/app/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"clearfix",
+			"distinct_head",
+			"productCollection",
+			"user_avatar",
+			"$user",
+			"user",
+			"registercustomer",
+			"nav_counters",
+			"Permission",
+			"permissions",
+			"permi",
+			"diamond",
+			"transa",
+			"CommonHelper",
+			"diamonds",
+			"total_products",
+			"showroomProductsTable",
+			"</ul>\n                        <ul class=\"list-unstyled sub-menu\">",
+			"DataTables_Table_0",
+			".DataTable(",
+			"data",
+			"dataT",
+			"data",
+			"datatable",
+			"data",
+			"permissions",
+			"Musonza",
+			"nav_counters",
+			"logout",
+			"vendor_charges",
+			"deleteperm",
+			"roles",
+			"Role",
+			"role",
+			"Role",
+			"roles",
+			"destr",
+			"deleteperm",
+			"naice@mailinator.com",
+			"getmetal",
+			"getweight",
+			"get_metal_weight",
+			"metal_weight",
+			"downloadexcel",
+			"getMetalWeightByProductId",
+			"getExactMetalWeight",
+			"Edit ",
+			"mv",
+			"top",
+			"vendor_dmcode",
+			"dmcode",
+			"users",
+			"users*",
+			"123",
+			"123.108.51.11",
+			"10.22.40.6",
+			"memo alrea",
+			"getFirst",
+			"first(",
+			"catalog/product",
+			"addProduct",
+			"addProductToOrder",
+			"QRTableEntry",
+			"get_image",
+			"format_csv",
+			"favicon",
+			"errors",
+			"email",
+			"easysitemaintenance",
+			"downloadable",
+			"customer",
+			"couponcodegeneration",
+			"cgi-bin",
+			"cap",
+			"Fosforos_config",
+			"first()",
+			"getResourceModel",
+			"getItemsCollection",
+			"n getItemsCollection",
+			"getItemsCollection",
+			"n getAllItems",
+			"respo",
+			"sales/order_item",
+			"sales/order_item_collection",
+			"product",
+			"DeleteItemSaveTotal",
+			"jquery",
+			"addProductOrderId",
+			"DeleteItemSaveTotal",
+			"addProductToOrder",
+			"qrcode_table",
+			"DeleteItemSaveTotal",
+			"myqrcustomerforms",
+			"generateinvoice",
+			"productId",
+			"productId_",
+			"btn-generate-memo",
+			"order_id",
+			"myqrcustomerforms",
+			"btn-generate-memo",
+			"qrinsertproduct_index_index",
+			"mysqldump",
+			"approva",
+			"getProductImageById",
+			"metals.create",
+			"MetalTransaction",
+			"class Auth",
+			".js",
+			"datepicker",
+			"roles",
+			"parce",
+			"<<",
+			"HEAD",
+			"symfony/css-selector",
+			"HEAD",
+			"list-icon material-icons\">people",
+			"list-icon material-icons>people",
+			"Users",
+			"contents",
+			"BreadcrumbsServiceProvider",
+			"downloadproduct list",
+			"Super Admin",
+			"172",
+			"171",
+			"172",
+			"assets/",
+			"../../cdnjs.cloudflare.com/",
+			"../../"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Permission",
+			"permission",
+			"Permission",
+			"permissions",
+			"metals",
+			"<?=URL::to('/');?>/assets/",
+			"<?=URL::to('/');?>/cdnjs.cloudflare.com/",
+			"",
+			"<?=URL::to('/');?>/assets/",
+			"<?=URL::to('/');?>/assets/vendors/",
+			"<?=URL::to('/');?>/cdnjs.cloudflare.com/ajax/",
+			"<?=URL::to('/');?>/assets/js/",
+			"<?=URL::to('/');?>/cdnjs.cloudflare.com/",
+			"<?=URL::to('/');?>/css/",
+			"<?=URL::to('/');?>/cdnjs.cloudflare.com/",
+			"<?=URL::to('/');?>/assets/",
+			"<?=URL::to('/');?>/cdnjs.cloudflare.com/",
+			"<?=URL::to('/');?>/css/",
+			"<?=URL::to('/');?>/assets/",
+			"<?=URL::to('/');?>/cdnjs.cloudflare.com",
+			"",
+			"<?=URL::to('/');?>assets/",
+			"<?=URL::to('/');?>cdnjs.cloudflare.com",
+			"cdnjs.cloudflare.com",
+			"orderitem",
+			"orderitems",
+			"modperfumes.com",
+			"ronmarone.com/modperfumes",
+			"select[name=\"availability\"]",
+			"UpdateCommunityAttr",
+			"HelloWorld",
+			"community",
+			"Cmage",
+			"Franchisesregistration",
+			"Grapes",
+			"Cmage",
+			"Violations",
+			"http://colourfab.in/",
+			"csv",
+			"Csv",
+			"csv",
+			"Csv",
+			"qrcode",
+			"Dmlapi",
+			"dmlapi",
+			"Dmlapi",
+			"dmlapi",
+			"Dmlapi",
+			"dmlapi",
+			"Dmlapi",
+			"dmlapi",
+			"Dmlapi",
+			"dmlapi",
+			"Dmlapi",
+			"chargescsv",
+			"vendorcharges",
+			"Vendorcharges",
+			"Chargescsv",
+			"vendorcharges",
+			"Vendorcharges",
+			"vendorcharges",
+			"chargescsv",
+			"vendorcharges",
+			"grp_vendor_charge_id",
+			"Chargescsv",
+			"Vendorcharges",
+			"(`grp_stone_manage_id`, `stone_shape`, `stone_clarity`, `stone_color`, `stone_carat_from`, `stone_carat_to`, `stone_price`)",
+			"grp_stone_manage",
+			"",
+			"fa-angle-down",
+			"fa-angle-up",
+			"fa fa-angle-up",
+			"fa fa-angle-down",
+			"DML Ready To Ship",
+			"DML Make To Order",
+			"toggle",
+			"<h3 class=\"text-uppercase\">INFORMATION</h3>",
+			"<h3 class=\"text-uppercase\">POLICIES</h3>",
+			"<h3 class=\"text-uppercase\">SOCIAL</h3>",
+			"cart_and_buy",
+			"wechat",
+			"$invoice_item_{$orderItemDataKey}",
+			"orderiteminternal",
+			"grpcities",
+			"QC Invoice",
+			"Qcdata",
+			"Received",
+			"Metal",
+			"Banks",
+			"Grp",
+			"bank",
+			"Bank",
+			"bank",
+			"Bank",
+			"Grp",
+			"bank",
+			"Bank",
+			"Grp",
+			"bank",
+			"Bank",
+			"Grp",
+			"Bank",
+			"Grp",
+			"Bank",
+			"Grp",
+			"Bank",
+			"bank",
+			"Bank",
+			"Grp",
+			"bank",
+			"Bank",
+			"Grp",
+			"bank",
+			"Bank",
+			"Grp",
+			"bank",
+			"Bank",
+			"Grp"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/chintan/Documents/Chintan_bkp/html/DML All server details with commands.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12562,
+								12562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/docs/dealermela/DML INTERNAL SOFTWARE/19062019.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1090,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"auto_name": "- Invoice no unique",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/auth/login.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/var/www/docs/may-2019.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15372,
+								15372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/var/www/docs/june-2019.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2336,
+								2336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1291,
+								1291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/Http/Controllers/TransactionTypeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2337,
+								2337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/transactiontype/edit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/transactiontype/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/views/transactiontype/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "routes/breadcrumbs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1929,
+								1929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/TransactionType.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/Http/Controllers/PermissionController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2355,
+								2355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "resources/views/layout/partials/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10369,
+								10369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "database/seeds/PermissionsTwoTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "resources/views/roles/edit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2674,
+								2674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 710.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "config/constants.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "resources/views/profile.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2827,
+								2827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2798,
+								2798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1746.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/Http/Middleware/NavData.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1238,
+								1238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "resources/views/showroom/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1778,
+								1778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 700.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "app/Http/Controllers/ShowroomController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 1512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "app/Helpers/ShowroomHelper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3310,
+								3310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.925037481259,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"FormController"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

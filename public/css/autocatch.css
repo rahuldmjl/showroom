@@ -1,0 +1,17 @@
+.dropdown-menu-show{
+    max-height: 200px;
+    overflow-y: auto;
+}
+.dropdown-menu-show .autocatch-item.active, .dropdown-menu-show .autocatch-item:hover{
+    background-color: #4a5368;
+    color: #fff;
+}
+.suggetion-dropdown{
+    position: absolute;
+    background-color: #fff;
+    z-index: 3;
+    margin-top:3px;
+    box-shadow: 0 0 3px #ddd;
+    width: calc(100% - 30px);
+    max-height: 200px;
+}

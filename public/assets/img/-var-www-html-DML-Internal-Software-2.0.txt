@@ -1,0 +1,1 @@
+/var/www/html/DML-Internal-Software-2.0/public/assets/img

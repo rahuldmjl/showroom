@@ -1,0 +1,16 @@
+*.png
+/node_modules
+/public/hot
+/public/storage
+public/img/product/*
+/storage/*.key
+/storage
+/vendor
+/bootstrap/cache/*
+/public/img/product/*
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
