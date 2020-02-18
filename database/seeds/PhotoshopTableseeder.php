@@ -56,8 +56,8 @@ class PhotoshopTableseeder extends Seeder
 	  'entity_id'=>'35',
 	  'name'=>'Rubber bracelets',
 	  ]
-	  ,
-	  );
+	  
+	   );
 	  
 	  DB::table('photoshop_status_type')->insert(
 	  [
@@ -99,7 +99,7 @@ class PhotoshopTableseeder extends Seeder
 	  [
 	  'status_name'=>'PLACEMENT_REWORK',
 	  'status_id'=>'11',
-	  ],
+	  ]
 	  );
     }
 }
