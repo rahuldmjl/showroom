@@ -40,8 +40,8 @@
 				<div class="widget-bg bg-primary text-inverse">
 					<div class="widget-body">
 						<div class="widget-counter">
-							<h6>Total  work<small class="text-inverse">Total Work</small></h6>
-							<h3 class="h1">&dollar;<span class="counter">0</span></h3><i class="material-icons list-icon">add_shopping_cart</i>
+							<h6>Total attempt<small class="text-inverse">Total attempt</small></h6>
+							<h3 class="h1"><span class="counter">{{$totalwork}}</span></h3><i class="material-icons list-icon">add_shopping_cart</i>
 						</div>
 						<!-- /.widget-counter -->
 					</div>
@@ -56,7 +56,7 @@
 					<div class="widget-body clearfix">
 						<div class="widget-counter">
 							<h6>Rework <small class="text-inverse">Total Rework</small></h6>
-							<h3 class="h1"><span class="counter">0</span></h3><i class="material-icons list-icon">event_available</i>
+							<h3 class="h1"><span class="counter">{{$totalrework}}</span></h3><i class="material-icons list-icon">event_available</i>
 						</div>
 						<!-- /.widget-counter -->
 					</div>
@@ -89,10 +89,11 @@
             <div class="col-md-12 widget-holder content-area">
                 <div class="widget-bg">
                     <div class="widget-heading clearfix">
-                        <h5 class="border-b-light-1 pb-1 mb-2 mt-0 w-100"> @foreach ($listproduct as $item)
-             
-                            {{$item->getProductdetail->sku}}
-                            @endforeach</h5>
+                        <h5 class="border-b-light-1 pb-1 mb-2 mt-0 w-100"> 
+                           @foreach ($product as $item2)
+                             {{$item2->sku}}  
+                           @endforeach
+                           </h5>
                       
                     </div>
                     <div class="widget-body clearfix dataTable-length-top-0">
@@ -110,7 +111,7 @@
                             </thead>
                             <tbody>
                     
-                 @foreach ($listproduct1 as $items)
+                 @foreach ($listproduct as $items)
                  <tr>
                     <td>{{$items->getProductdetail->sku}}</td>   
                      <td>{{$items->getDepartmentStatus->status_name}}</td>

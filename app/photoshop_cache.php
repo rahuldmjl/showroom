@@ -3,7 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-
+use App\photography_product;
 class photoshop_cache extends Model
 {
     
@@ -25,5 +25,8 @@ class photoshop_cache extends Model
    {
        return $this->hasOne('App\photoshop_status_type','status_id','action_name');
    }
-
+public static function productdetail($id)
+{
+    return photography_product::where('id',$id)->get();
+}
 }

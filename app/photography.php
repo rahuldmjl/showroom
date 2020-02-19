@@ -45,6 +45,16 @@ class photography extends Model
       $data=array('status'=>'0');
       return photography_product::where('id','=',$productid)->update($data);
   }
+  public static function updateprodtographypending($productid)
+  {
+      $data=array('status'=>'1');
+      return photography_product::where('id','=',$productid)->update($data);
+  }
+  public static function updateprodtographydone($productid)
+  {
+      $data=array('status'=>'0');
+      return photography_product::where('id','=',$productid)->update($data);
+  }
   public static function delete_from_below_department($product_id)
   {   
     

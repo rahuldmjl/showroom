@@ -95,7 +95,7 @@ class PhotoshopController extends Controller
            //Cache table data Insert
            if($request->input('status')=='3')
            {
-            $photoshop->save();
+           $photoshop->save();
             $cache=array(
                 'product_id'=>$request->input('product_id'),
                 'url'=>PhotoshopHelper::getDepartment($request->url()),
@@ -104,16 +104,15 @@ class PhotoshopController extends Controller
     
     
             );
-             PhotoshopHelper::store_cache_table_data($cache);
-             photography_product::getUpdatestatusdone($request->input('product_id'));
-             photography::getUpdatestatusdone($request->input('product_id'));
-             photography::updateprodtographystatus($request->input('product_id'));
             
+             PhotoshopHelper::store_cache_table_data($cache);
+              photography_product::getUpdatestatusdone($request->input('product_id'));
+             photography::getUpdatestatusdone($request->input('product_id'));
+            
+          
            }
           
         }
-      
-        
  return  redirect('Photoshop/Photography/pending')->with('message','Photoshop Status Change Successfull');
     }
 /*
@@ -140,9 +139,11 @@ done to rework
          {
              photography::delete_from_below_department($request->input('product_id'));
              photography::getUpdatestatusdone($request->input('product_id'));
-             
+             photography::updateprodtographystatus($request->input('product_id'));
+        
          }
          
+        
             return redirect()->back()->with('success', 'Photography status Change Successfull');
         }
         else{
