@@ -85,10 +85,62 @@
 			<!-- /.widget-holder -->
 		</div>
       
-  					</div>
-  				</div>
-  			</div>
-  		</div>
+        <div class="row">
+            <div class="col-md-12 widget-holder content-area">
+                <div class="widget-bg">
+                    <div class="widget-heading clearfix">
+                        <h5 class="border-b-light-1 pb-1 mb-2 mt-0 w-100"> @foreach ($listproduct as $item)
+             
+                            {{$item->getProductdetail->sku}}
+                            @endforeach</h5>
+                      
+                    </div>
+                    <div class="widget-body clearfix dataTable-length-top-0">
+                        
+                      <table class="table table-striped table-center word-break mt-0"   data-toggle="datatables" >
+                            <thead>
+                                <tr class="bg-primary">
+                                    <th>Sku</th>
+                                    <th>Action Name</th>
+                                    <th>Action By</th>
+                                    <th>Date</th>
+                                   
+                                
+                                </tr>
+                            </thead>
+                            <tbody>
+                    
+                 @foreach ($listproduct1 as $items)
+                 <tr>
+                    <td>{{$items->getProductdetail->sku}}</td>   
+                     <td>{{$items->getDepartmentStatus->status_name}}</td>
+                     <td>{{$items->getactionby->name}}</td>
+                    <td>{{$items->action_date_time}}</td>
+                  
+                 
+
+                       </tr>
+                 @endforeach
+            
+
+
+                            </tbody>
+                            <tfoot>
+                              <tr class="bg-primary">
+                                <th>Sku</th>
+                                <th>Action Name</th>
+                                <th>Action By</th>
+                                <th>Date</th>
+                               
+                              
+                              </tr>
+                          </tfoot>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+  	
     </div>
   <!-- /.widget-list -->
 </main>

@@ -20,9 +20,10 @@ class photoshop_cache extends Model
    {
        return $this->hasOne('App\User','id','action_by');
    }
-
+   
    public function getDepartmentStatus()
    {
        return $this->hasOne('App\photoshop_status_type','status_id','action_name');
    }
+
 }
