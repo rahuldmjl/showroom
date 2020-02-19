@@ -5,6 +5,7 @@ use App\photography_product;
 use App\category;
 use Illuminate\Http\Request;
 use App\photoshop_cache;
+use App\photoshop_status_type;
 class PhotoshopProductController extends Controller
 {
     public $list_prpduct;
@@ -87,9 +88,16 @@ class PhotoshopProductController extends Controller
 
    public function get_product_detail($id)
    {
-       $listproduct=photoshop_cache::getproduct($id);
-       $list=collect($listproduct)->where('id',$id);
-
-      return view('Photoshop/Product/view',compact('listproduct'));
+      $listproduct=photoshop_cache::getproduct($id);
+      $product=collect($listproduct)->where('id',$id);
+     $department=array();
+    $department1=photoshop_status_type::all();
+   foreach($department1 as $departments)
+   {
+    $dep=explode('_',$departments['status_name']);
+    $department[]=$dep['0'];
+   }
+   $depart[]=array_unique($department);
+      return view('Photoshop/Product/view',compact('department','product'));
    }
 }

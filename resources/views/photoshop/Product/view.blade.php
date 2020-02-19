@@ -37,7 +37,7 @@
         <div class="row">
 			<!-- Counter: Sales -->
 			<div class="col-md-4 col-sm-6 widget-holder widget-full-height">
-				<div class="widget-bg bg-color-scheme text-inverse">
+				<div class="widget-bg bg-primary text-inverse">
 					<div class="widget-body">
 						<div class="widget-counter">
 							<h6>Total  work<small class="text-inverse">Total Work</small></h6>
@@ -84,52 +84,7 @@
 			
 			<!-- /.widget-holder -->
 		</div>
-        <div class="row">
-            <!-- Tabs Vertical Left -->
-            <div class="col-md-12 widget-holder">
-                <div class="widget-bg">
-                    <div class="widget-body clearfix">
-                        <h5 class="box-title">tabs Vertical Left</h5>
-                        <div class="tabs tabs-vertical">
-                            <ul class="nav nav-tabs flex-column">
-                                <li class="nav-item active"><a class="nav-link" href="#home-tab-v1" data-toggle="tab" aria-expanded="true">Home</a>
-                                </li>
-                                <li class="nav-item"><a class="nav-link" href="#profile-tab-v1" data-toggle="tab" aria-expanded="true">Profile</a>
-                                </li>
-                                <li class="nav-item"><a class="nav-link" href="#messages-tab-v1" data-toggle="tab" aria-expanded="true">Messages</a>
-                                </li>
-                                <li class="nav-item"><a class="nav-link" href="#settings-tab-v1" data-toggle="tab" aria-expanded="true">Settings</a>
-                                </li>
-                            </ul>
-                            <!-- /.nav-tabs -->
-                            <div class="tab-content">
-                                <div class="tab-pane active" id="home-tab-v1">
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet.</p>
-                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa.</p>
-                                </div>
-                                <div class="tab-pane" id="profile-tab-v1">
-                                    <p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-                                    <p>Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac.</p>
-                                </div>
-                                <div class="tab-pane" id="messages-tab-v1">
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet.</p>
-                                    <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa.</p>
-                                </div>
-                                <div class="tab-pane" id="settings-tab-v1">
-                                    <p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</p>
-                                    <p>Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac.</p>
-                                </div>
-                            </div>
-                            <!-- /.tab-content -->
-                        </div>
-                        <!-- /.tabs -->
-                    </div>
-                    <!-- /.widget-body -->
-                </div>
-                <!-- /.widget-bg -->
-            </div>
-        </div>
-
+      
   					</div>
   				</div>
   			</div>

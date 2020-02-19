@@ -11,9 +11,8 @@ class photoshop_cache extends Model
     {
         return photoshop_cache::where('product_id','=',$id)->get();
     }
-    
     public function getProductdetail()
-  {
+   {
    return $this->hasOne('App\photography_product','id','product_id');
    }
 
